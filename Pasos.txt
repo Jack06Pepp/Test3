@@ -3,3 +3,5 @@ git clone para pasarlo de remoto a local
 creamos los archivos de "Fecha de hoy" y "Pasos" en Test3
 git add y git commit -mensaje para guardar archivo
 git push para subir el archivo al remoto
+
+EDITADO DESDE REMOTO
